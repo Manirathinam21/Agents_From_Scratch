@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# DB
+travel_agent_checkpoints.db
+travel_agent_checkpoints.db-shm
+travel_agent_checkpoints.db-wal
