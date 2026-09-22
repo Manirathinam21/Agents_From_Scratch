@@ -14,3 +14,12 @@ wheels/
 travel_agent_checkpoints.db
 travel_agent_checkpoints.db-shm
 travel_agent_checkpoints.db-wal
+chat_checkpoint.sqlite
+chat_checkpoint.sqlite-shm
+chat_checkpoint.sqlite-wal
+mortgage_checkpoints.db
+mortgage_checkpoints.db-shm
+mortgage_checkpoints.db-wal
+support_checkpoints.db
+support_checkpoints.db-shm
+support_checkpoints.db-wal
